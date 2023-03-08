@@ -6,7 +6,7 @@ int n, p, x, v[25];
 
 int main()
 {
-    cin >> n >> p >> x;
+    cin >> n >> x >> p;
     
     for (int i = 0; i < n; i++)
     {
